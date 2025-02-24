@@ -139,7 +139,7 @@ body {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url('/demo/assets/img/hero.png') center/cover;
+        url('/demo/assets/img/hero.webp') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -327,7 +327,7 @@ body {
 
 /* Parallax */
 .parallax {
-    background: url('/demo/assets/img/parallax.png') fixed center/cover;
+    background: url('/demo/assets/img/parallax.webp') fixed center/cover;
     min-height: 500px;
     display: flex;
     align-items: center;
