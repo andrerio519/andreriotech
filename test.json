@@ -1,0 +1,32 @@
+{
+    "@context": "https://schema.org",
+    "@type": "website",
+    "name": "Demo Landing Page Website Usaha Parcel",
+    "description": "Demo Landing Page Website Usaha Parcel",
+    "image": "https://andreriotech.my.id/img/logoAT.webp",
+    "url": "https://andreriotech.my.id/penjualan-parcel.html",
+    "author": {
+      "@type": "Person",
+      "name": "Andreriotech"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Andreriotech",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://andreriotech.my.id/img/logoAT.webp"
+      },
+      "url": "https://andreriotech.my.id"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://andreriotech.my.id/penjualan-parcel.html"
+    },
+    "datePublished": "2024-09-01",
+    "dateModified": "2024-09-01",
+    "copyrightYear": "2024",
+    "copyrightHolder": {
+      "@type": "Person",
+      "name": "Andreriotech"
+    }
+  }
